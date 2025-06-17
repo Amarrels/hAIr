@@ -127,3 +127,17 @@ This system can:
 
 ---
 
+## 🛠️ Potential Tech Stack
+
+| Layer            | Technologies                         |
+|------------------|--------------------------------------|
+| Frontend         | React + Tailwind CSS (or Flutter)    |
+| Backend          | FastAPI or Flask                     |
+| Image Classifier | PyTorch + CNN (ResNet or MobileNet)  |
+| Recommender      | scikit-learn or LightGBM             |
+| Storage          | Google Cloud Storage / AWS S3        |
+| Database         | PostgreSQL or Firebase (optional)    |
+
+---
+
+
